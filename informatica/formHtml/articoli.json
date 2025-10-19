@@ -1,0 +1,18 @@
+[
+    {
+        "id": 2,
+        "titolo": "MOUSE",
+        "descrizione": "gamig ultra",
+        "prezzo": 49.99,
+        "categoria": "PC",
+        "immagine": "PC.png"
+    },
+    {
+        "id": 3,
+        "titolo": "televisione Philips 50 pollici",
+        "descrizione": "4K",
+        "prezzo": 499.9,
+        "categoria": "TV",
+        "immagine": "TV.png"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "username": "admin",
+        "password": "56ebdc6a80e5a1c5125658e92287df51edf132317cd7f9efc9661994cdcbb211",
+        "bgcolor": "#54b095",
+        "salt": "6fa22d97c1df596fb3ed0d131145cab1"
+    },
+    {
+        "username": "marco",
+        "password": "480e165563858b7212e1de25ec71e8728f9ea674194e7b178dd1a303de7e87c5",
+        "bgcolor": "#ff7b00",
+        "salt": "ecf63dac8b5f7249ae109b49cd95ba4d"
+    },
+    {
+        "username": "marco2",
+        "password": "25f9f1e1b9c51222cd4f1ef8f9a574150fea6b1715e809af850c46e1b2357c5f",
+        "bgcolor": "#ba9191",
+        "salt": "deb66c4df3ef54c6e63565f862d0d1e8"
+    },
+    {
+        "username": "1234",
+        "password": "9a604f09d09b3add7d5b50b1a8193c82a80b0de9f972ebec585fca4d7339de8f2330a62d192e1f2567dd7aa39752ed29",
+        "bgcolor": "#563d7c"
+    },
+    {
+        "username": "admin",
+        "password": "a78e4f142d50fb2942a9664386230f3824f572497cb0871266846c6bace96d10dbfe07914d631f77205a0c3fa5f61b11",
+        "bgcolor": "#b98aff"
+    }
+]
