@@ -22,7 +22,7 @@ jobs:
 
       - name: Clone target repo
         run: |
-          git clone https://${{ secrets.TARGET_REPO_PAT }}@github.com/${{ github.repository_owner }}/UrbanFix.git repo_subfolder
+          git clone https://github.com/studentemarco/UrbanFix.git repo_subfolder
           cd repo_subfolder
           git checkout main || git checkout -b main
           git rm -rf .
