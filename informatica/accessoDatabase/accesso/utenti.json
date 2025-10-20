@@ -1,0 +1,14 @@
+[
+    {
+        "username": "asdfa",
+        "password": "a41cb0ee4631181f3c6f2dc70de44bb8a3d6d1c3be15813fc110616a0d4299a195b5ac4f0c0032649bf887c164304994",
+        "role": "user",
+        "userid": 1085
+    },
+    {
+        "username": "Marco",
+        "password": "33a3f234dbd274ca1431c746ac0d9602697edcd3032b5f575669793c5f4e9020e55d9a1ff5dc78542e30a23c250cead4",
+        "role": "user",
+        "userid": 8854
+    }
+]

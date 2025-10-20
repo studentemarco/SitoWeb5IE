@@ -28,5 +28,11 @@
         "password": "61a4b6ffd3f70751a6aea49039d53506072de37f99f3f43c0fd94b41359cabe7e5d949b979376a4e9337bb3dfd246bb0",
         "bgcolor": "#ffd84d",
         "role": "utente"
+    },
+    {
+        "username": "utente_phpmyadmin",
+        "password": "a74f1997c3435e0a53d723cbce695ea58ec30ee9b2313872f1ee292139bd294e96326c70078d00e65d0f6e0b5cda976c",
+        "bgcolor": "#000000",
+        "role": "utente"
     }
 ]
