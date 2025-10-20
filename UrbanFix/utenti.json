@@ -4,11 +4,5 @@
         "password": "a50c9291f7f2af9e45fc71022da60a51840e20026e7fb82865ea0240732959bacf115b0c6c97713b2572b6fe7c028f34",
         "bgcolor": "#6600ff",
         "role": "utente"
-    },
-    {
-        "username": "admin",
-        "password": "f670cd34b8132937b33aee03f9d2b457411acb296580b09ca092755bb596867d3c1d5a9ab739eb676a4a3bad0685390f",
-        "bgcolor": "#c8befe",
-        "role": "admin"
     }
 ]
