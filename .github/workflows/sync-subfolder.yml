@@ -36,5 +36,4 @@ jobs:
           cd repo_subfolder
           git add .
           git diff --cached --quiet || git commit -m "Sync UrbanFix subfolder from main repo"
-          git push https://${{ secrets.TARGET_REPO_PAT }}@github.com/${{ github.repository_owner }}/UrbanFix.git HEAD:main
-
+          git push https://${{ secrets.TARGET_REPO_PAT }}@github.com/${{ github.repository_owner }}/UrbanFix.git main
